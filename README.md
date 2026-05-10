@@ -6,12 +6,15 @@ BusGo is a modern Flutter-based bus ticket booking application inspired by premi
 Built using Flutter and Dart, BusGo focuses on providing a smooth booking experience with premium UI/UX design.
 
 ✨ Features
+
 🔐 Authentication
+
 User Registration
 User Login
 Persistent Login Flow
 
 🏠 Home Screen
+
 Search buses using:
 From location
 To location
@@ -21,6 +24,7 @@ Offer cards and promotions
 Bottom navigation bar
 
 🚌 Bus Search
+
 Dynamic route search
 Multiple buses for each route
 Different timings and pricing
@@ -28,6 +32,7 @@ Ratings for buses
 "No buses available" handling
 
 💺 Seat Selection
+
 Realistic bus seat layout
 Upper deck & lower deck design
 Available / Selected / Sold seats
@@ -35,24 +40,28 @@ Dynamic pricing per seat
 Seat selection animations
 
 📍 Boarding & Dropping Points
+
 Select boarding point
 Select dropping point
 City-based pickup/drop locations
 Realistic timing system
 
 💳 Payment System
+
 Payment summary
 Selected seats overview
 Total fare calculation
 Booking confirmation flow
 
 📖 Booking Management
+
 Booking history
 Payment history
 Ticket details
 
 
 🛠️ Tech Stack
+
 Flutter
 Dart
 Material UI
@@ -60,6 +69,7 @@ VS Code
 Chrome/Web Support
 
 📂 Project Structure
+
 lib/
  └── main.dart
 
@@ -80,6 +90,7 @@ flutter pub get
 flutter run -d chrome
 
 📸 Screens Included
+
 Login Screen
 Home Screen
 Bus Search Screen
@@ -89,6 +100,7 @@ Payment Page
 Booking Confirmation
 
 🌟 Future Improvements
+
 Firebase Authentication
 Real payment gateway integration
 API-based live bus data
@@ -98,4 +110,5 @@ Dark mode
 AI-based route suggestions
 
 👨‍💻 Author
+
 Developed by Deon Benny.
